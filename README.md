@@ -8,11 +8,16 @@
 
 ### Sobre mí:
 
-🎓 **Estudiante de Ingeniería Informática** en la UNIR.  
-💻 Apasionado por la **automatización** y el **desarrollo de software**.  
+🎓 **Estudiante de Ingeniería Informática** en la UNIR.
+
+💻 Apasionado por la **automatización** y el **desarrollo de software**. 
+
 🌟 Conocimientos en **Python** y **Java**.  
+
 📍 **A Coruña**  
+
 🔎 En busca de mi primer empleo dentro del mundo del desarrollo de software.  
+
 📩 **Contacto**: serfer1@hotmail.es  
 
 ---
