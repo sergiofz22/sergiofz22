@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Social
+### 🌐 Social y contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/sergiof22" target="_blank">
