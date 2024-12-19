@@ -1,8 +1,8 @@
-# ¡Hola a tod@s! 👋, soy Sergio Fernández
+<h1 align="center"> # ¡Hola a tod@s! 👋, soy Sergio Fernández
 
 ---
 
-📚 Estudiante de ingeniería Informática en la UNIR | 👩‍💻 Desarrollador | Java | Python | Control de calidad
+<h1 align="center"> **📚 Estudiante de ingeniería Informática en la UNIR | 👩‍💻 Desarrollador | Java | Python | Control de calidad**
 
 Sobre mi:
 
@@ -22,11 +22,21 @@ Sobre mi:
 
 🛠 Skills
 
-Python Java C C++ Azure AWS
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
 
 ---
 
 🔗 Social
 
-https://www.linkedin.com/in/sergiofz22/
+<a href="https://linkedin.com/in/sergiof22">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
 
