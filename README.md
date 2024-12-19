@@ -18,8 +18,6 @@
 
 - 🔎 En busca de mi primer empleo dentro del mundo del desarrollo de software.  
 
-- 📩 **Contacto**: serfer1@hotmail.es  
-
 ---
 
 ### 🛠 Skills
