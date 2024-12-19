@@ -8,7 +8,7 @@
 
 ### Sobre mí:
 
-- 🎓 **Estudiante de Ingeniería Informática** en la UNIR.
+- 🎓 **Estudiante de tercer año de Ingeniería Informática** en la UNIR.
 
 - 💻 Apasionado por la **automatización** y el **desarrollo de software**. 
 
