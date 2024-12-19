@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center"> **📚 Estudiante de ingeniería Informática en la UNIR | 👩‍💻 Desarrollador | Java | Python | Control de calidad**
+<p align="center">><b> 📚 Estudiante de ingeniería Informática en la UNIR | 👩‍💻 Desarrollador | Java | Python | Control de calidad
 
 Sobre mi:
 
