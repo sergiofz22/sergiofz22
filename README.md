@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola a tod@s! 👋, soy Sergio Fernández
 
-<!--
-**sergiofz22/sergiofz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+📚 Estudiante de ingeniería Informática en la UNIR | 👩‍💻 Desarrollador | Java | Python | Control de calidad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mi:
+
+🎓 Estudiante de Ingeniería Informática en la UNIR.
+
+💻 Apasionado por la automatización y el desarrollo de software.  
+
+🌟 Conocimientos en Python y Java.
+
+📍 A Coruña
+
+🔎 En busca de mi primer empleo dentro del mundo del desarrollo de software
+
+📩 Contacto: serfer1@hotmail.es
+
+---
+
+🛠 Skills
+
+Python Jaca C C++ Azure AWS
+
+---
+
+🔗 Social
+
+https://www.linkedin.com/in/sergiofz22/
+
