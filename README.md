@@ -22,7 +22,7 @@ Sobre mi:
 
 🛠 Skills
 
-Python Jaca C C++ Azure AWS
+Python Java C C++ Azure AWS
 
 ---
 
