@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><b>📚 Estudiante de Ingeniería Informática en la UNIR | 👨‍💻 Desarrollador | Java | Python | Control de calidad</b></p>
+<p align="center"><b>📚 Estudiante de Ingeniería Informática en la UNIR | 👨‍💻 GenAI & LLM Developer </b></p>
 
 ---
 
@@ -10,9 +10,9 @@
 
 - 🎓 **Estudiante de tercer año de Ingeniería Informática** en la UNIR.
 
-- 💻 Apasionado por la **automatización** y el **desarrollo de software**. 
+- 💻 Apasionado por la **IA** y parte del equipo **AMD Solutions** como **Data & IA Consultant**. 
 
-- 🌟 Conocimientos en **Python** y **Java**.  
+- 🌟 Conocimientos en **Python**, **Java** **LLMs**, **RAGs**, **AI Agents**, **Prompt Engineering**, **LangChain**, **Git**.  
 
 - 📍 **A Coruña**  
 
