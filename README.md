@@ -12,7 +12,7 @@
 
 - 💻 Apasionado por la **IA** y parte del equipo **AMS Solutions** como **Data & IA Consultant**. 
 
-- 🌟 Conocimientos en **Python**, **Java** **LLMs**, **RAGs**, **AI Agents**, **Prompt Engineering**, **LangChain**, **Git**.  
+- 🌟 Conocimientos en **Python**, **Java**, **LLMs**, **RAGs**, **AI Agents**, **Prompt Engineering**, **LangChain**, **Git**.  
 
 - 📍 **A Coruña**  
 
