@@ -10,7 +10,7 @@
 
 - 🎓 **Estudiante de tercer año de Ingeniería Informática** en la UNIR.
 
-- 💻 Apasionado por la **IA** y parte del equipo **AMD Solutions** como **Data & IA Consultant**. 
+- 💻 Apasionado por la **IA** y parte del equipo **AMS Solutions** como **Data & IA Consultant**. 
 
 - 🌟 Conocimientos en **Python**, **Java** **LLMs**, **RAGs**, **AI Agents**, **Prompt Engineering**, **LangChain**, **Git**.  
 
