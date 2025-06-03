@@ -16,8 +16,6 @@
 
 - 📍 **A Coruña**  
 
-- 🔎 En busca de mi primer empleo dentro del mundo del desarrollo de software.  
-
 ---
 
 ### 🛠 Skills
