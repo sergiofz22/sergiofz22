@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"><b>📚 Estudiante de Ingeniería Informática en la UNIR | 👨‍💻 GenAI & LLM Developer </b></p>
+<p align="center"><b>📚 Estudiante de Ingeniería Informática en la UNIR | 👨‍💻 Consultor de datos & IA en AMS Solutions </b></p>
 
 ---
 
