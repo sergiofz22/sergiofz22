@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi there! 👋 I'm Sergio Fernández</h1>
 
 <h3 align="center">AI Engineer | LLM Applications | Multi-Agent Systems</h3>
@@ -89,4 +88,3 @@ I'm a software developer focused on **Generative AI, LLM-powered applications, a
     <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-```
